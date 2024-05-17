@@ -93,3 +93,7 @@ curl -H "Authorization: Bearer YOUR_NEW_ACCESS_TOKEN" \
 "https://id.twitch.tv/oauth2/validate"
 
 These steps will allow you to securely generate and validate a new Access Token for your Twitch-to-Godot Bot.
+
+[Putting It All Together]
+Once you've set up your virtual environment and configured your environment variables, run the Twitch Bot WebSocket Server Python script and then run the Godot project.
+Messages from your specified Twitch channel should be printed in Godot's Output Console.
