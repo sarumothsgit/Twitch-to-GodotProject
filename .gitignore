@@ -1,0 +1,6 @@
+TwitchGodotVenv/
+
+__pycache__/
+*.pyc
+
+.env
