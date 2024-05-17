@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b5w1uje3gks32"]
+
+[ext_resource type="Script" path="res://Scripts/WSClient.gd" id="1_1b0tq"]
+
+[node name="Node" type="Node"]
+
+[node name="WSClient" type="Node" parent="."]
+script = ExtResource("1_1b0tq")
