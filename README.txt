@@ -6,7 +6,11 @@ This repository contains a Python virtual environment configured for a Twitch-to
 
 •	Python 3.12.3
 
-[Packages]
+[Godot Version]
+
+•	Godot 4.2.2
+
+[Python Packages]
 
 The following packages are installed in this virtual environment:
 
