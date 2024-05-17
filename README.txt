@@ -1,5 +1,3 @@
-[[[TwitchGodotVenv]]]
-
 This repository contains a Python virtual environment configured for a Twitch-to-Godot Bot project using Twitchio, Asyncio, and WebSockets. Below are the details of the virtual environment and its configuration:
 
 [Python Version]
